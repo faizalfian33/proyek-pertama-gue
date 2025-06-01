@@ -1,0 +1,2 @@
+Halo, ini proyek Git pertamaku!
+Belajar Git itu seru.
